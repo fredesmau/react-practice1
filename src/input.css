@@ -1,0 +1,38 @@
+* {
+  font-family: "Trebuchet MS", "Lucida Sans Unicode", "Lucida Grande",
+    "Lucida Sans", Arial, sans-serif;
+  position: relative;
+}
+
+.welcome-text {
+  margin-top: 80px;
+  font-size: 40px;
+}
+
+.input {
+  background-color: rgb(179, 184, 192);
+  color: white;
+  font-size: 20px;
+  padding: 10px 60px;
+  border-radius: 8px;
+  margin: 110px 50px;
+  display: flex;
+  text-align: center;
+}
+
+.container {
+  justify-content: center;
+  align-items: center;
+  display: flex;
+}
+
+.card {
+  background-color: rgb(6, 55, 124);
+  border-radius: 20px;
+  text-align: center;
+  display: inline-block;
+  justify-content: center;
+  align-items: center;
+  position: absolute;
+  top: 80%;
+}
