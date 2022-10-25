@@ -1,4 +1,4 @@
-* {
+/* * {
   font-family: "Trebuchet MS", "Lucida Sans Unicode", "Lucida Grande",
     "Lucida Sans", Arial, sans-serif;
   position: relative;
@@ -21,13 +21,14 @@
 }
 
 .container {
+  padding-top: 10%;
   justify-content: center;
   align-items: center;
   display: flex;
 }
 
 .card {
-  background-color: rgb(6, 55, 124);
+  background-color: rgb(29, 72, 133);
   border-radius: 20px;
   text-align: center;
   display: inline-block;
@@ -36,3 +37,4 @@
   position: absolute;
   top: 80%;
 }
+ */

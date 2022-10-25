@@ -1,4 +1,4 @@
-import './input.css'
+/* import './input.css'
 
 export function Input({ text }) {
   return (
@@ -9,4 +9,4 @@ export function Input({ text }) {
         </>
   );
 }
-
+ */

@@ -1,6 +1,45 @@
-/* * {
+* {
   font-family: "Trebuchet MS", "Lucida Sans Unicode", "Lucida Grande",
     "Lucida Sans", Arial, sans-serif;
+  position: relative;
+}
+.background{
+  background-color: #01071d;
+  height: 920px;
+}
+
+
+.welcome-text {
+  margin-top: 80px;
+  font-size: 40px;
+}
+
+.input {
+  background-color: rgb(179, 184, 192);
+  color: white;
+  font-size: 20px;
+  padding: 10px 60px;
+  border-radius: 8px;
+  margin: 110px 50px;
+  display: flex;
+  text-align: center;
+}
+
+.container {
+  padding-top: 10%;
+  justify-content: center;
+  display: flex;
+}
+
+.card {
+  background-color: rgb(29, 72, 133);
+  border-radius: 20px;
+  text-align: center;
+  display: inline-block;
+  justify-content: center;
+  align-items: center;
+  position: absolute;
+  top: 80%;
 }
 
 .button {
@@ -43,9 +82,8 @@
   right: 0;
 }
 
-
 .button:active {
   background-color: #3e8e41;
   box-shadow: 0 5px #666;
   transform: translateY(4px);
-} */
+}

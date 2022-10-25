@@ -1,11 +1,11 @@
-import "./button.css";
+/* import "./button.css";
 
 
 
 export function Button({ text }) {
   return (
     <>
-      <button class="button" type="submit"><span>{text}</span></button>
+      <button class="button" type="submit"><span>Cas</span></button>
     </>
   );
-}
+} */
